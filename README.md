@@ -123,7 +123,7 @@ docpilot/
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/ArindamRout07/docpilot.git
+git clone https://github.com/ArindamRout07/DocPilot_AI.git
 cd docpilot
 ```
 
@@ -181,7 +181,7 @@ streamlit run streamlit_app.py
 ## 🌐 Live Demo
 
 🚀 **Try DocPilot here:**  
-**https://docpilot-jqbkrsyrm33mgr255to4om.streamlit.app/**
+**https://docpilotai-7.streamlit.app/**
 
 No installation required—simply upload a PDF and start asking questions!
 
