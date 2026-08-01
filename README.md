@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📄 DocPilot
+# 📄 DocPilot-AI
 
 ### AI-Powered Document Question Answering using Retrieval-Augmented Generation (RAG), PostgreSQL & Groq LLM
 
